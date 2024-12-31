@@ -207,14 +207,14 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 <hr>
 
-## Ejpt notes available online
+## eJPT Notes Available Online
 - [Notes by PakCyberbot](https://github.com/PakCyberbot/eJPTv2-Notes)
 - [Notes by NeilMadava](https://github.com/neilmadhava/EJPTv2-Notes?tab=readme-ov-file)
 - [Notes by edoardottt](https://github.com/edoardottt/eJPT-notes)
 - [Cheatsheet by seergiovks](https://sezioss-gitbook.gitbook.io/ejptv2cheatsheet/assessment-methodologies/assessment-methodologies)
 - [Cheatsheet by xalgord](https://github.com/xalgord/ejPTv2-Preparation)
 
-## Ejpt Exam Experience
+## eJPT Exam Experience
 - [Exam Experience by Pr0tag0nist ](https://www.youtube.com/watch?v=NIAj4VKr_AM&list=PLR6J_t8cpbRHpfKuBsv8i_EaeKcPTusdR&pp=iAQB) - Jeremiah has an entire EJPTv2 series covering his entire preparation journey; make sure to check out the entire playlist.
 - [Exam Experience by PakCyberbot](https://youtu.be/2s8BYjXUjGA?si=8RF3cV2wZLCQPWAp)
 - [My eJPTv2.0 exam review by Siddhart Shree Kaushik](https://blog.killswitchx7.com/my-ejptv2-0-exam-review)
